@@ -9,3 +9,6 @@ Please create your own branch to share your code. Name it in the pattern `/lastn
 
 # GitHub education
 Check out [Github Education](https://education.github.com/) if you want useful tools for free / at a lower cost.
+
+# Help
+If you need help with this, ask [@martyschaer](https://github.com/martyschaer) at [contact@mariusschaer.ch](mailto:contact@mariusschaer.ch).
