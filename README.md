@@ -7,6 +7,9 @@ If you don't know Git yet, check out [Think like a Git](http://think-like-a-git.
 # Usage
 Please create your own branch to share your code. Name it in the pattern `/lastname-firstname/<whatever you want>`.
 
+## Example
+As a small example, you can look at [/schär-marius/example](https://github.com/martyschaer/literate-pancake/tree/schär-marius/example).
+
 # GitHub education
 Check out [Github Education](https://education.github.com/) if you want useful tools for free / at a lower cost.
 
