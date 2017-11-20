@@ -15,4 +15,4 @@ This repository is published under GPLv3.
 ![GPLv3 explained by GitHub](https://camo.githubusercontent.com/e9366ff151b8e526890336596c0cff09e1ac4867/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f31393937372f3739313531332f32353432633865342d656234382d313165322d396263622d3966366539383566306632652e706e67 "GPLv3 explained by GitHub")
 
 # Help
-If you need help with this, ask [@martyschaer](https://github.com/martyschaer) at [contact@mariusschaer.ch](mailto:contact@mariusschaer.ch).
+If you need help with this, [create an issue](https://github.com/martyschaer/literate-pancake/issues/new) or ask [@martyschaer](https://github.com/martyschaer) at [contact@mariusschaer.ch](mailto:contact@mariusschaer.ch).
